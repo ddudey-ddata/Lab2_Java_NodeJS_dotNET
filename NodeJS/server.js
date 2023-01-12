@@ -1,0 +1,1 @@
+const diffusion = require('diffusion');

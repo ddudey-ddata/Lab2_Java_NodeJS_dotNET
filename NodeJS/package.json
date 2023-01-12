@@ -1,0 +1,14 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Diffusion Data - Lab2 NodeJS",
+  "scripts": {
+    "server": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diffusion Data",
+  "license": "ISC",
+  "dependencies": {
+    "diffusion": "^6.9.0"
+  }
+}
